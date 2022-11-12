@@ -1,4 +1,4 @@
-# RNA-Helicase-Database---Eckhard-Janowsky
+# RNA-Helicase-Database---Eckhard-Jankowsky
 
 This is the updated version of the RNA helicase database from 2010.
 
